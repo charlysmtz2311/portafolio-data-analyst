@@ -29,7 +29,8 @@ Profesional especializado en la optimización operativa, logística y finanzas m
 ### 3. Análisis de Sell-Out y Rotación de Inventario (SQL & Looker Studio)
 * **Descripción:** Implementación de consultas SQL intermedias/avanzadas para el procesamiento de transacciones comerciales de múltiples puntos de venta externos.
 * **Componentes:** Cruces relacionales (*INNER JOIN*), funciones de agregación y métricas de desempeño comercial (*KPIs*) integradas en dashboards dinámicos para auditoría de mermas y resurtido.
-* **Enlace al script SQL:** [Ver código fuente](proyectos/dashboards/README.md)
+* **Enlace al script SQL:** [Ver código fuente](proyectos/analisis_ventas_deliciate.sql)
+* **Enlace al proyecto:** [Ver carpeta del proyecto](proyectos/dashboards/README.md)
 
 ---
 
