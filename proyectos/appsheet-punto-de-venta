@@ -1,0 +1,40 @@
+# Aplicación Operativa de Punto de Venta y Control de Inventarios (AppSheet)
+
+## Resumen del Ejecutivo del Proyecto
+Desarrollo de una solución móvil y web tipo Low-Code orientada a optimizar la operación de preventa y distribución en campo para el sector de confitería. La herramienta centraliza el registro de transacciones, el control de inventarios en tiempo real y la administración de un padrón de clientes, eliminando la captura manual y mejorando la trazabilidad comercial.
+
+---
+
+## Arquitectura y Stack Tecnológico
+* **Plataforma Low-Code:** AppSheet.
+* **Base de Datos y Almacenamiento:** Google Sheets / AppSheet Database estructurada por tablas relacionales (Inventario, Ventas, Clientes/Tiendas).
+* **Módulos Principales:**
+  * Catálogo dinámico de productos y existencias.
+  * Formulario automatizado de registro de ventas con validación de folios y control de cantidades.
+  * Padrón y directorio comercial de clientes con asignación de identificadores únicos (ID_CLIENTE).
+
+---
+
+## Vistas del Sistema e Interfaz Operativa
+
+### 1. Control de Inventarios y Catálogo
+*Vista general del catálogo de productos y existencias disponibles para el personal de campo:*
+*(Inserta aquí tu captura de pantalla de inventario)*
+
+### 2. Formulario de Transacciones (Ventas)
+*Interfaz para el registro de operaciones comerciales, captura de fechas, selección de tiendas y control de volúmenes:*
+*(Inserta aquí tu captura del formulario de ventas)*
+
+### 3. Padrón y Directorio de Clientes / Tiendas
+*Base de datos estructurada para la gestión de puntos de venta y cuentas comerciales:*
+*(Inserta aquí tu captura del padrón de clientes)*
+
+---
+
+## Reto de Negocio y Solución Implementada
+* **El Reto:** Los procesos de venta y control de stock en campo dependían de registros físicos o formatos dispersos, lo que retrasaba la conciliación de ingresos y generaba riesgos de desabastecimiento en los puntos de venta.
+* **La Solución:** Despliegue de una aplicación multiplataforma accesible desde dispositivos móviles, permitiendo que los agentes registren pedidos e ingresos directamente en una base de datos centralizada en la nube con actualización inmediata.
+
+---
+**Autor:** Ing. Carlos Solís Martínez  
+Perfil de GitHub: https://github.com/charlysmtz2311
