@@ -19,7 +19,7 @@ Profesional especializado en la optimización operativa, logística y finanzas m
 ### 1. Sistema Móvil de Punto de Venta y Control de Inventarios (AppSheet)
 * **Descripción:** Desarrollo de una solución Low-Code para la preventa y distribución en campo en el sector de confitería. Centraliza el catálogo de existencias, el registro de transacciones comerciales y la administración de un padrón de clientes.
 * **Componentes:** Base de datos estructurada en la nube, formularios dinámicos de ventas con validación de folios y control de inventarios en tiempo real.
-* **Enlace al proyecto:** [Ver carpeta del proyecto](./appsheet-punto-de-venta)
+* **Enlace al proyecto:** [Ver carpeta del proyecto](proyectos/appsheet-punto-de-venta/README.md)
 
 ### 2. Aplicación Operativa de Gestión de Comercio y Cobros (AppSheet)
 * **Descripción:** Sistema móvil y web diseñado para automatizar el registro de padrones, seguimiento operativo en campo y control de cobros institucionales.
