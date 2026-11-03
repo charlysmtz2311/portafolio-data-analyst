@@ -1,11 +1,11 @@
-# Hola, soy Ing. Carlos Solís Martínez 👋
+# Hola, soy Ing. Carlos Solís Martínez 
 ### Ingeniero en Energías Renovables & Data Analyst especializado en Optimización Operativa, Logística y Finanzas
 
 Ayudo a las empresas a transformar datos dispersos en dashboards automatizados, tableros de control y bases de datos que optimizan costos, controlan inventarios y mejoran la toma de decisiones gerenciales.
 
 ---
 
-## 🛠️ Stack Tecnológico y Habilidades
+##  Stack Tecnológico y Habilidades
 * **Análisis de Datos & BI:** Looker Studio, Excel Avanzado (Power Query, DAX).
 * **Bases de Datos & Lenguajes:** SQL, Google Sheets, AppSheet (Desarrollo de apps a la medida).
 * **Gestión & Operaciones:** Modelado financiero, control de inventarios, logística y optimización de procesos.
@@ -13,7 +13,7 @@ Ayudo a las empresas a transformar datos dispersos en dashboards automatizados, 
 
 ---
 
-## 📊 Proyectos Destacados en este Portafolio
+##  Proyectos Destacados en este Portafolio
 
 ### 1. Dashboard de Ventas y Rendimiento de Canal (Sell-Out)
 * **El Reto:** Falta de visibilidad en tiempo real sobre la rotación de producto y auditoría de inventarios en puntos de venta externos.
