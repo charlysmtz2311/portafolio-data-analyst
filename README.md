@@ -24,6 +24,7 @@ Profesional especializado en la optimización operativa, logística y finanzas m
 ### 2. Aplicación Operativa de Gestión de Comercio y Cobros (AppSheet)
 * **Descripción:** Sistema móvil y web diseñado para automatizar el registro de padrones, seguimiento operativo en campo y control de cobros institucionales.
 * **Impacto:** Eliminación de errores de captura manual, centralización de datos y trazabilidad en tiempo real para la toma de decisiones administrativas.
+* **Enlace al proyecto:** [Ver carpeta del proyecto](proyectos/appsheet-app/README.md)
 
 ### 3. Análisis de Sell-Out y Rotación de Inventario (SQL & Looker Studio)
 * **Descripción:** Implementación de consultas SQL intermedias/avanzadas para el procesamiento de transacciones comerciales de múltiples puntos de venta externos.
